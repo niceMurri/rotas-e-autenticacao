@@ -1,0 +1,15 @@
+{
+    "name": "murilo/rotas-simples-poo",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murilo",
+            "email": "murilo@gmail.com"
+        }
+    ],
+    "require": {}
+}
